@@ -1,0 +1,14 @@
+C:\Samiya Malhotra\Exam\Array1\bin\Debug\net10.0\Array1.exe
+C:\Samiya Malhotra\Exam\Array1\bin\Debug\net10.0\Array1.deps.json
+C:\Samiya Malhotra\Exam\Array1\bin\Debug\net10.0\Array1.runtimeconfig.json
+C:\Samiya Malhotra\Exam\Array1\bin\Debug\net10.0\Array1.dll
+C:\Samiya Malhotra\Exam\Array1\bin\Debug\net10.0\Array1.pdb
+C:\Samiya Malhotra\Exam\Array1\obj\Debug\net10.0\Array1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Samiya Malhotra\Exam\Array1\obj\Debug\net10.0\Array1.AssemblyInfoInputs.cache
+C:\Samiya Malhotra\Exam\Array1\obj\Debug\net10.0\Array1.AssemblyInfo.cs
+C:\Samiya Malhotra\Exam\Array1\obj\Debug\net10.0\Array1.csproj.CoreCompileInputs.cache
+C:\Samiya Malhotra\Exam\Array1\obj\Debug\net10.0\Array1.dll
+C:\Samiya Malhotra\Exam\Array1\obj\Debug\net10.0\refint\Array1.dll
+C:\Samiya Malhotra\Exam\Array1\obj\Debug\net10.0\Array1.pdb
+C:\Samiya Malhotra\Exam\Array1\obj\Debug\net10.0\Array1.genruntimeconfig.cache
+C:\Samiya Malhotra\Exam\Array1\obj\Debug\net10.0\ref\Array1.dll
