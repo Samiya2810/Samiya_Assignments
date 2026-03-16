@@ -1,0 +1,25 @@
+﻿@model StudentEnrollment1.ViewModels.StudentDetails
+
+<h2>Student Details</h2>
+
+<p><b>ID:</b> @Model.StudentId</p>
+<p><b>Name:</b> @Model.Name</p>
+<p><b>Branch:</b> @Model.Branch</p>
+
+<h3>Courses</h3>
+
+<table class="table">
+    <tr>
+        <th>Course</th>
+        <th>Grade</th>
+    </tr>
+
+    @foreach (var c in Model.Courses)
+    {
+        <tr>
+            <td>@c.CourseTitle</td>
+            <td>@c.Grade</td>
+        </tr>
+    }
+
+</table>

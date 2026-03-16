@@ -1,0 +1,11 @@
+﻿namespace StudentEnrollment1.Models
+{
+    public class Student
+    {
+        public int StudentId { get; set; }
+        public string Name { get; set; }
+        public string Branch { get; set; }
+
+        public List<Enrollment> Enrollments { get; set; }
+    }
+}
